@@ -1,0 +1,1 @@
+<?php exit();?>a:1:{i:0;a:4:{s:3:"ext";s:100:"a:4:{s:8:"form_btn";b:0;s:5:"width";s:3:"500";s:15:"ext_quick_words";b:0;s:14:"ext_quick_type";b:0;}";s:10:"identifier";s:7:"entitle";s:9:"form_type";s:4:"text";s:7:"content";s:5:"Links";}}

@@ -1,0 +1,3 @@
+eclipse.preferences.version=1
+org.eclipse.php.debug.core.pathMapper=<pathMappers><item2><mapper></mapper><server>localhost1</server></item2><item3><mapper><item1><remote>/Users/huojingjing/vHost-mysites</remote><local>/mytext</local><type>WORKSPACE</type></item1></mapper><server>mysites</server></item3><item1><mapper></mapper><server>Default PHP Web Server</server></item1></pathMappers>
+org.eclipse.php.debug.corezend_debug_port=10137

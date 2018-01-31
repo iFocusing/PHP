@@ -1,0 +1,1 @@
+<?php exit();?>a:1:{i:0;a:8:{s:2:"id";s:10:"identifier";s:5:"title";s:27:"标识串自动生成工具";s:6:"author";s:9:"phpok.com";s:7:"version";s:3:"1.0";s:6:"status";s:1:"1";s:5:"taxis";s:3:"255";s:4:"note";s:39:"实现名称转拼音，英语的功能";s:5:"param";s:104:"a:5:{s:9:"is_youdao";i:0;s:7:"keyfrom";s:0:"";s:5:"keyid";s:0:"";s:10:"is_pingyin";i:1;s:5:"is_py";i:1;}";}}

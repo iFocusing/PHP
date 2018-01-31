@@ -1,0 +1,1 @@
+<?php exit();?>a:2:{i:0;a:4:{s:3:"ext";s:47:"a:2:{s:8:"form_btn";b:0;s:5:"width";s:3:"500";}";s:10:"identifier";s:7:"entitle";s:9:"form_type";s:4:"text";s:7:"content";s:4:"News";}i:1;a:4:{s:3:"ext";s:88:"a:3:{s:11:"upload_type";s:7:"picture";s:7:"cate_id";s:1:"1";s:11:"is_multiple";s:1:"0";}";s:10:"identifier";s:6:"banner";s:9:"form_type";s:6:"upload";s:7:"content";s:3:"625";}}

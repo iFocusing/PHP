@@ -1,0 +1,1 @@
+<?php exit();?>a:3:{i:0;a:3:{s:6:"res_id";s:3:"629";s:8:"filename";s:27:"res/201409/03/thumb_629.png";s:10:"identifier";s:5:"thumb";}i:1;a:3:{s:6:"res_id";s:3:"629";s:8:"filename";s:26:"res/201409/03/auto_629.png";s:10:"identifier";s:4:"auto";}i:2;a:3:{s:6:"res_id";s:3:"629";s:8:"filename";s:28:"res/201409/03/mobile_629.png";s:10:"identifier";s:6:"mobile";}}

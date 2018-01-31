@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>.org.eclipse.dltk.core.external.folders</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>.link10</name>
+			<type>2</type>
+			<location>/Applications/Zend Studio.app/Contents/Resources/Java/plugins/com.zend.php.phpunit_10.1.0.201306250232/resources/library/3.6.10</location>
+		</link>
+		<link>
+			<name>.link3</name>
+			<type>2</type>
+			<location>/Users/huojingjing/Zend/workspaces/DefaultWorkspace/.metadata/.plugins/org.eclipse.php.core/__language__/740411fb</location>
+		</link>
+		<link>
+			<name>.link4</name>
+			<type>2</type>
+			<location>/Users/huojingjing/Zend/workspaces/DefaultWorkspace/.metadata/.plugins/com.zend.php.core/__language__/e3dceae2</location>
+		</link>
+		<link>
+			<name>.link5</name>
+			<type>2</type>
+			<location>/Users/huojingjing/Zend/workspaces/DefaultWorkspace/.metadata/.plugins/com.zend.php.core/__language__/8ba95f37</location>
+		</link>
+		<link>
+			<name>.link7</name>
+			<type>2</type>
+			<location>/Users/huojingjing/Zend/workspaces/DefaultWorkspace/.metadata/.plugins/org.zend.php.framework.resource/resources/ZendFramework-1/library</location>
+		</link>
+		<link>
+			<name>.link8</name>
+			<type>2</type>
+			<location>/Users/huojingjing/Zend/workspaces/DefaultWorkspace/.metadata/.plugins/org.zend.php.framework/org.zend.php.framework.v2.CONTAINER</location>
+		</link>
+	</linkedResources>
+</projectDescription>
